@@ -1,7 +1,7 @@
 {
   "name": "RLB Matrix Weather",
   "short_name": "RLB Matrix",
-  "start_url": "./matrix_weather_rlb_final.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#00ff66",
